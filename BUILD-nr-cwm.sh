@@ -6,7 +6,7 @@ fi
 
 DEFCONFIG_STRING=epicmtd_dm_defconfig
 PRJROOT=$PWD
-CUSTOMVERSION=dm47021-jb42_krnl-cwm-`date +%m%d`
+CUSTOMVERSION=eXtasy-cm10.1_krnl-cwm-`date +%m%d`
 KERNEL_BUILD_DIR=/home/dm47021/Android/kernel_sources/samsung/epicmtd/android_kernel_samsung_epicmtd-cm-10.1
 BOOTIMG_BUILD_DIR=$PRJROOT/create_boot.img
 ZIP_BUILD_DIR=$PRJROOT/zip-nr
